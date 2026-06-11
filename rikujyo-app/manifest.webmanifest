@@ -1,7 +1,7 @@
 {
   "name": "陸部記録ページ",
   "short_name": "陸部記録",
-  "start_url": "https://script.google.com/macros/s/現在のデプロイID/exec",
+  "start_url": "https://script.google.com/a/macros/k-josai.com/s/AKfycbyyvr5WWonLRddKVmNgSRJX4xKk1TL5SRKzC10aL7f85xv1C4v4z7VUTk4uDQvlFll3RQ/exec",
   "display": "browser",
   "background_color": "#ffffff",
   "theme_color": "#8b0000",
