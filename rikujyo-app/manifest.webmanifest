@@ -1,0 +1,15 @@
+{
+  "name": "陸部記録ページ",
+  "short_name": "陸部記録",
+  "start_url": "https://script.google.com/macros/s/現在のデプロイID/exec",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#8b0000",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/ynagayama64/web-assets/main/rikujyo-app/logotfc2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
